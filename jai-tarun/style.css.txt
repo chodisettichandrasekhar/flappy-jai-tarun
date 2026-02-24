@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    text-align: center;
+    background: url("intro.jpg") no-repeat center center/cover;
+}
+
+.intro {
+    margin-top: 200px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    background: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+}

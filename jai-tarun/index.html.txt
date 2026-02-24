@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jai Tarun Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="intro">
+    <h1>Jai Tarun Flappy Game</h1>
+    <button onclick="startGame()">Start Game</button>
+</div>
+
+<script>
+function startGame(){
+    window.location.href = "game.html";
+}
+</script>
+
+</body>
+</html>
